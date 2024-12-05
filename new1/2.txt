@@ -1,0 +1,2 @@
+this is the second word text for git hub
+todays date is 5/12/2024
